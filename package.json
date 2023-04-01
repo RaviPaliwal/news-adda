@@ -1,5 +1,6 @@
 {
   "name": "news-adda",
+  "homepage": "https://github.com/RaviPaliwal/news-adda",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
